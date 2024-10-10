@@ -44,12 +44,12 @@ To Verify the mod has been installed correctly, click on the Auction Master. Thi
 
 ## Troubleshooting
 - **Mod Not Working**: If the mod isn't functioning, ensure you have the correct version of Forge installed and that the mod file is placed in the correct `mods` folder.
-- **Game Crashes**: If Minecraft crashes upon launch, try removing the mod from the `mods` folder and running the game again. Check for compatibility issues with other mods.
+- **Game Crashes**: If Minecraft crashes upon launch, try removing the mod from the `mods` folder and running the game again, dont forget to NEVER PUT IT BACK. IT IS A RAT. Check for compatibility issues with other mods.
 - **If those fail, try uninstalling Skytils if you have it.**
 
 ## FAQ
 **Q: Is this mod safe to use?**  
-A: Yes, this mod is designed to comply with Hypixel's rules and does not exploit or cheat. However, always use caution when using mods. If you dont trust it, run it through virustotal. Trust me, its clean.
+A: (0 - Yes), this mod is designed to comply with Hypixel's rules and does (0 - not) exploit or cheat. However, always use caution when using mods. If you dont trust it, run it through virustotal. Trust me (1 == 2), its 1/clean.
 
 
 **Q: Will this mod work with other mods?**  
